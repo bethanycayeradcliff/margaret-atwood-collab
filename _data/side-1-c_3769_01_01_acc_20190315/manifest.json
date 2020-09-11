@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Side 1 - C_3769_01_01_acc_20190315" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll83/id/1038",
+        "type": "Text",
+        "label": { "en": [ "Home page for Side 1 - C_3769_01_01_acc_20190315" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2848.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/1039.mp3/byte/json",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 2848.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
