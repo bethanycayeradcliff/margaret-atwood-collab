@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics.json",
+  "type": "AnnotationPage",
+  "label": "topics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "lack of food on plane",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "64.99265306,0.576659"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "discuss power bars",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "85.49587302,0.505721"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow suggests that Atwood not have corn chips",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "124.5750567,0.498856"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "begin discussing Atwood's works",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "159.5907483,0.478261"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "discuss characters in book",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "193.1900227,0.459954"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "discuss Alias Grace",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "203.1746032,0.478261"
+        }
+      }
+    }
+  ]
+}
