@@ -1,0 +1,302 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mel Gussow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2.856054422,0.393593"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Atwood",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.690430839,0.377574"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mel Gussow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.105306122,0.405034"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Atwood",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8.498503401,0.448513"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mel Gussow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.25705215,0.446224"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Atwood",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.60380952,0.478261"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mel Gussow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "17.13632653,0.478261"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "waiter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.54965986,0.439359"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Atwood",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.54811791,0.446224"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mel Gussow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.59455782,0.482838"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "waiter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "34.62095238,0.464531"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Atwood",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "36.9661678,0.459954"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mel Gussow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56.28517007,0.485126"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Atwood",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "58.00344671,0.466819"
+        }
+      }
+    }
+  ]
+}
