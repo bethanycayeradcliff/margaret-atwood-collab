@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-2-c_3769_02_01_acc_20190315/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2848.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-2-c_3769_02_01_acc_20190315/canvas-1/canvas/test.json",
+            "label": "test"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-2-c_3769_02_01_acc_20190315/canvas-1/paintings",

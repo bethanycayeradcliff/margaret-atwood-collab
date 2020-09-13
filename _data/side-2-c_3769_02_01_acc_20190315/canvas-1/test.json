@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-2-c_3769_02_01_acc_20190315/canvas-1/canvas/test.json",
+  "type": "AnnotationPage",
+  "label": "test",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-2-c_3769_02_01_acc_20190315/canvas-1/canvas/test-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "N: Test annotation to see if this shows up in Bethany's view",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-2-c_3769_02_01_acc_20190315/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1"
+        }
+      }
+    }
+  ]
+}
