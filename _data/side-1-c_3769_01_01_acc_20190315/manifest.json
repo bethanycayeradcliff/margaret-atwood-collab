@@ -36,6 +36,12 @@
             "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/speaker.json",
             "label": "speaker"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/ephemeral.json",
+            "label": "ephemeral"
+          }
         ],
         "items": [
           {
