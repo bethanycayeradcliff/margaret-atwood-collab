@@ -14,14 +14,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "lack of food on plane",
+        "value": "reading",
         "format": "text/plain"
       },
       "target": {
         "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "64.99265306,0.576659"
+          "t": "13.252055,21.082814"
         }
       }
     },
@@ -35,14 +35,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "discuss power bars",
+        "value": "ordering",
         "format": "text/plain"
       },
       "target": {
         "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "85.49587302,0.505721"
+          "t": "21.082814,64.386245"
         }
       }
     },
@@ -56,14 +56,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "Gussow suggests that Atwood not have corn chips",
+        "value": "airplane ride",
         "format": "text/plain"
       },
       "target": {
         "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "124.5750567,0.498856"
+          "t": "64.453175,159.560092"
         }
       }
     },
@@ -77,14 +77,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "begin discussing Atwood's works",
+        "value": "alias grace beginnings",
         "format": "text/plain"
       },
       "target": {
         "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "159.5907483,0.478261"
+          "t": "159.560092,348.435335"
         }
       }
     },
@@ -98,35 +98,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "discuss characters in book",
+        "value": "family/small town Ontario history",
         "format": "text/plain"
       },
       "target": {
         "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "193.1900227,0.459954"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas/topics-annotation-5.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": "discuss Alias Grace",
-        "format": "text/plain"
-      },
-      "target": {
-        "source": "https://bethanycayeradcliff.github.io/margaret-atwood-collab/side-1-c_3769_01_01_acc_20190315/canvas-1/canvas",
-        "selector": {
-          "type": "RangeSelector",
-          "t": "203.1746032,0.478261"
+          "t": "436.916225,568.633617"
         }
       }
     }
